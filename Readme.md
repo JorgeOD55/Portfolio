@@ -13,9 +13,16 @@ In this section of the Portfolio I attached the proof of the accomplish of all t
 prepare ourselfs for the project, and get tools for the developing of the Python and Machine Learning tasks.
 
 ![Data Camp courses_1](cursos_1.png)
+
+![Data Camp courses_1](cursos_2.png)
                 
 
 
 2. #### Another Data Camp Courses
+
+     * 1.- [Deep Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/ce565a19adf03772d80876e47c3fca7acc432bc6)
+ 
+     * 2.- [Linear Classifiers in Python](https://www.datacamp.com/statement-of-accomplishment/course/9ab6f431f07d3f3c21c67bf1166e68d9ea02331e)
+ 
 3. #### Presentations
    
