@@ -37,4 +37,13 @@ prepare ourselfs for the project, and get tools for the developing of the Python
      
      
      * 2.- [My Second Presentation](cybersecurity_week9.pdf)
+     
+
+5. #### References
+
+    * 1.- Raúl E. López Briega. (2017). Procesamiento de Lenguaje Natural con Python. 25/10/2018, de Blog Sitio web: https://relopezbriega.github.io/blog/2017/09/23/procesamiento-del-lenguaje-natural-con-python/ 
+    
+    *2.- tthustla. (2018). Another Twitter Sentiment Analysis with Python - Part 1. 26/10/2018, de GitHub Sitio web: https://github.com/tthustla/twitter_sentiment_analysis_part1/blob/master/Capstone_part2.ipynb
+    
+    
 
