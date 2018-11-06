@@ -1,5 +1,5 @@
-# My portfolio
-## Applied Data Sciences KB-74
+   # My portfolio
+### Applied Data Sciences KB-74
 ### Jorge Edmundo Ortiz Durán
 ### Student Number 17170311
 
