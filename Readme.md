@@ -33,8 +33,8 @@ prepare ourselfs for the project, and get tools for the developing of the Python
 3. #### Presentations
     
     
-     * 1.- [My first Presentation](https://dehaagsehogeschool.sharepoint.com/:p:/r/sites/CYBERSECURITY/_layouts/15/Doc.aspx?sourcedoc=%7B8645db27-786a-4f6d-bc72-ec0f3aa0e917%7D&action=edit&uid=%7B8645DB27-786A-4F6D-BC72-EC0F3AA0E917%7D&ListItemId=25&ListId=%7BD7849A54-8F0B-4F8D-9BB8-3466C208DA4F%7D&odsp=1&env=prod)
+     * 1.- [My first Presentation](cybersecurity_week3.pdf)
      
      
-     * 2.- [My Second Presentation](https://dehaagsehogeschool.sharepoint.com/:p:/r/sites/CYBERSECURITY/_layouts/15/Doc.aspx?sourcedoc=%7B2633daff-1efe-4411-a421-2ef104c8c595%7D&action=edit&uid=%7B2633DAFF-1EFE-4411-A421-2EF104C8C595%7D&ListItemId=38&ListId=%7BD7849A54-8F0B-4F8D-9BB8-3466C208DA4F%7D&odsp=1&env=prod)
+     * 2.- [My Second Presentation](cybersecurity_week9.pdf)
 
