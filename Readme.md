@@ -48,11 +48,18 @@ prepare ourselfs for the project, and get tools for the developing of the Python
      
      * 3.- [Importing data in Python (Part 2) ](https://www.datacamp.com/statement-of-accomplishment/course/db1e1b603053b05d41ef09af5555d3f35b6d16e5)
      
-     
+ 5. ### Coursera
+ In this section I attached the proof of the finished chapters on Coursera platform.
+ 
+ ![Coursera](Coursera_1.png)
+ 
+  ![Coursera](Coursera_2.png)
+
+      
      
  
  
-5. ### Presentations
+6. ### Presentations
     
     
      * 1.- [My first Presentation](cybersecurity_week3.pdf)
@@ -61,7 +68,7 @@ prepare ourselfs for the project, and get tools for the developing of the Python
      * 2.- [My Second Presentation](cybersecurity_week9.pdf)
      
 
-6. ### References
+7. ### References
 
     * 1.- Raúl E. López Briega. (2017). Procesamiento de Lenguaje Natural con Python. 25/10/2018, de Blog Sitio web: https://relopezbriega.github.io/blog/2017/09/23/procesamiento-del-lenguaje-natural-con-python/ 
     
