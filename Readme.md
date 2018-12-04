@@ -42,11 +42,11 @@ prepare ourselfs for the project, and get tools for the developing of the Python
 
 4. ### Another Data Camp Courses
 
-     * 1.- [Deep Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/ce565a19adf03772d80876e47c3fca7acc432bc6)
+     * 1.- [Deep Learning in Python](Statement of Accomplishment_Deep_Learning_in_Python.pdf)
  
-     * 2.- [Linear Classifiers in Python](https://www.datacamp.com/statement-of-accomplishment/course/9ab6f431f07d3f3c21c67bf1166e68d9ea02331e)
+     * 2.- [Linear Classifiers in Python](Statement of Accomplishment_Linear_Classifiers_in_Python_Course.pdf)
      
-     * 3.- [Importing data in Python (Part 2) ](https://www.datacamp.com/statement-of-accomplishment/course/db1e1b603053b05d41ef09af5555d3f35b6d16e5)
+     * 3.- [Importing data in Python (Part 2) ](Statement of Accomplishment _importing_data_in_python_part_2.pdf)
      
  5. ### Coursera
  In this section I attached the proof of the finished chapters on Coursera platform.
@@ -65,10 +65,7 @@ and that programme clean the data and then export the data to a csv so then we c
    
    * 1.- [Extract tweets](MAIN-Excell.pdf)
      
-   * 2.- [Cleaning Data](Cleaning_Data_Programme.pdf)
-
-      
-     
+   * 2.- [Cleaning Data](Cleaning_Data_Programme.pdf)     
  
  
 7. ### Presentations
