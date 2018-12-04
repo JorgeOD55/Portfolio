@@ -42,11 +42,11 @@ prepare ourselfs for the project, and get tools for the developing of the Python
 
 4. ### Another Data Camp Courses
 
-     * 1.- [Deep Learning in Python](Statement of Accomplishment_Deep_Learning_in_Python.pdf)
+     * 1.- [Deep Learning in Python](Statement_of_Accomplishment_Deep_Learning_in_Python.pdf)
  
-     * 2.- [Linear Classifiers in Python](Statement of Accomplishment_Linear_Classifiers_in_Python_Course.pdf)
+     * 2.- [Linear Classifiers in Python](Statement_of_Accomplishment_Linear_Classifiers_in_Python_Course.pdf)
      
-     * 3.- [Importing data in Python (Part 2) ](Statement of Accomplishment _importing_data_in_python_part_2.pdf)
+     * 3.- [Importing data in Python (Part 2) ](Statement_of_Accomplishment_importing_data_in_python_part_2.pdf)
      
  5. ### Coursera
  In this section I attached the proof of the finished chapters on Coursera platform.
