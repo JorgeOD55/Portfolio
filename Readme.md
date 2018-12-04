@@ -65,7 +65,7 @@ and that programme clean the data and then export the data to a csv so then we c
    
    * 1.- [Extract tweets](MAIN-Excell.pdf)
      
-   * 2.- [Cleaning Data] (Cleaning_Data_Programme.pdf)
+   * 2.- [Cleaning Data](Cleaning_Data_Programme.pdf)
 
       
      
