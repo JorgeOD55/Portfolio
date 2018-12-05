@@ -1,3 +1,5 @@
+![Bandera de México](bandera.png) 
+   
    # My portfolio
 ### Applied Data Sciences KB-74
 ### Jorge Edmundo Ortiz Durán
