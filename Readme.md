@@ -4,6 +4,7 @@
 ### Applied Data Sciences KB-74
 ### Jorge Edmundo Ortiz Durán
 ### Student Number 17170311
+https://www.linkedin.com/in/jorge-edmundo-ortiz-dur%C3%A1n-54a825155/
 
 1. ### Introduction
 
