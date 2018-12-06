@@ -31,7 +31,7 @@ Used jargon for Cybersecurity is listed below.
 
                 
 3. ### Data Camp assignments
-In this section of the Portfolio I attached the proof of the accomplish of all the courses that we had to take during this course to 
+Here I attached the proof of the accomplish of all the courses that we had to take during this course to 
 prepare ourselfs for the project, and get tools for the developing of the Python and Machine Learning tasks.
 
 ![Data Camp XP](Data_camp_XP.png)
@@ -51,7 +51,7 @@ prepare ourselfs for the project, and get tools for the developing of the Python
      * 3.- [Importing data in Python (Part 2) ](Statement_of_Accomplishment_importing_data_in_python_part_2.pdf)
      
  5. ### Coursera
- In this section I attached the proof of the finished chapters on Coursera platform.
+ And also here I attached the proof of the finished chapters on Coursera platform.
  
  ![Coursera](Coursera_1.png)
  
@@ -60,7 +60,7 @@ prepare ourselfs for the project, and get tools for the developing of the Python
 
 6. ### Python Notebooks about the project as an evidence of my abilities
 
-In this section of my portfolio I put some of my personal programmes that we used for our project to extract the data from an excel file 
+In this section I put some of my personal programmes that we used for our project to extract the data from an excel file 
 to a list and then extract the tweets of the users, in that Python Notebook that was my collaboration and in the other one I made it all 
 and that programme clean the data and then export the data to a csv so then we can label the tweets and make it ready to use it in the classifier.
    
