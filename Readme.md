@@ -7,8 +7,8 @@
 
 1. ### Introduction
 
-In this Portfolio I will update some proof of the things that I learned during this course and the knowleage that I already have 
-for taking this course.
+My name is Jorge, I am 23 years old and I am Mexican, I am a student of the computer systems engineering career at the Instituto Politécnico Nacional, in Mexico. I am currently in the Applied Data Science course, at TheHague University of Applied Sciences, in the Netherlands. I am working on a project called CyberSecurity. In this project we apply the concepts and use the tools provided by the course. Libraries like Tweepy, Pandas and Numpy are also used.
+Part of the tasks we have to complete during the course is to finish courses that have been assigned to us on the DataCamp and Coursera platform, in order to learn how to use tools to achieve our goal in our project. Below is a compilation of the work I have done during this course.
 
 2. ### Jargon
  
