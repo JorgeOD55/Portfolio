@@ -71,7 +71,13 @@ and that programme clean the data and then export the data to a csv so then we c
    * 2.- [Cleaning Data](Cleaning_Data_Programme.pdf)     
  
  
-7. ### Presentations
+7. ### Some visual content
+   Those are also some graphics that I did in our code to see the most frequent words in the Tweets, they are the first ones because still missing to take away the common english words like 'the', 'a', and that words. But here its a good aproach of the handle of the tools for visualating the data.
+   This is the common words in the tweets that not have some hacktivist content.
+   ![Graphic1](Graphic_1.png) 
+   This is the common words in the tweets that we have the feeling they are speaking about hacktivism.
+   ![Graphic2](Graphic_2.png) 
+8. ### Presentations
     
     
      * 1.- [My first Presentation](cybersecurity_week3.pdf)
