@@ -75,6 +75,7 @@ and that programme clean the data and then export the data to a csv so then we c
  
  
 7. ### Some visual content
+   #*All the fragments of code that are bellow in this section, its in the python codes that are shown above.
    Those are also some graphics that I did in our code to see the most frequent words in the Tweets, they are the first ones because still missing to take away the common english words like 'the', 'a', and that words. But here its a good aproach of the handle of the tools for visualating the data.
    
    In this part I am showing the extracts of the tweets that we did at the begining of the project.
