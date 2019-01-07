@@ -81,6 +81,13 @@ and that programme clean the data and then export the data to a csv so then we c
    
    ![Extraction](Extraction.png) 
    
+   Here is the code used to clean the data from those characters that are unimportant for os.
+   
+   ![Cleaning](Cleaning.png) 
+   
+   ![Cleaning_2](Cleaning_2.png) 
+   
+   
    Those are some graphics about the frecuency of words from hacktivist users and non-hacktivist users.
    
  
