@@ -84,6 +84,16 @@ and that programme clean the data and then export the data to a csv so then we c
  
    ![Graphic2](Graphic_2.png) 
    
+   Here I put the two classifiers that I did, its a table that shows different values for each iteration so then we can see which one is 
+   the best value to use. 
+   In this case this is Naive Bayes
+    
+   ![Naive_Bayes](Naive_Bayes.png) 
+   
+   And here is the same comparation but with SMV
+   
+   ![SMV](SMV.png) 
+    
 8. ### Presentations
     
     
