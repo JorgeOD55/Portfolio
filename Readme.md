@@ -93,6 +93,16 @@ and that programme clean the data and then export the data to a csv so then we c
    And here is the same comparation but with SMV
    
    ![SMV](SMV.png) 
+   
+   Now we can see in this block of code that we choose the best value for each classifier.
+   
+   Naive Bayes
+   
+   ![Best_Naive_Bayes](Best_Naive_Bayes.png) 
+   
+   SMV
+   
+    ![Best_SMV](Best_SMV.png) 
     
 8. ### Presentations
     
