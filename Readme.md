@@ -77,6 +77,12 @@ and that programme clean the data and then export the data to a csv so then we c
 7. ### Some visual content
    Those are also some graphics that I did in our code to see the most frequent words in the Tweets, they are the first ones because still missing to take away the common english words like 'the', 'a', and that words. But here its a good aproach of the handle of the tools for visualating the data.
    
+   In this part I am showing the extracts of the tweets that we did at the begining of the project.
+   
+   ![Extraction](Extraction.png) 
+   
+   Those are some graphics about the frecuency of words from hacktivist users and non-hacktivist users.
+   
  
    ![Graphic1](Graphic_1.png) 
    
