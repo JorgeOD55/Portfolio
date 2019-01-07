@@ -68,7 +68,10 @@ and that programme clean the data and then export the data to a csv so then we c
    
    * 1.- [Extract tweets](MAIN-Excell.pdf)
      
-   * 2.- [Cleaning Data](Cleaning_Data_Programme.pdf)     
+   * 2.- [Cleaning Data](Cleaning_Data_Programme.pdf)    
+   
+   * 3.- [Naive Bayes and SMV comparation](Naive_Bayes_SMV_comparation_Classifiers.pdf)  
+   
  
  
 7. ### Some visual content
