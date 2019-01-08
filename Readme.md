@@ -136,5 +136,6 @@ and that programme clean the data and then export the data to a csv so then we c
     * 3.- Alec Go, Richa Bhayani y Lei Huang (2009). Twitter Sentiment Classification using Distant Supervision,*academia.edu.9*,1-6.
     
     * 4.- Cambridge University Press. (2018). Cambridge Dictionary. 09/11/2018, de Cambridge University Press Sitio web: https://dictionary.cambridge.org/dictionary/english/
+    * 5.- Pablov. (november 09, 2016). Spam classification with Naive Bayes and Support Vector Machines. december 04, 2018, de Kaggle Sitio web: https://www.kaggle.com/pablovargas/naive-bayes-svm-spam-filtering
     
 
