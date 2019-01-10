@@ -122,11 +122,12 @@ In this section I put some of my personal programmes that we used for our projec
    
     ![Best_SMV](Best_SMV.png) 
     
-8.- ### Tools
+8. ### Planning Tools
+
      The tool that we used for planned our tasks in each sprint was Microsoft Planner, we use that to communicate each team memmber
      the tasks that must be done.
      
-  ![Microsoft_Planner]()
+  ![Microsoft_Planner](Tool.png)
 
 9. ### Presentations
 
