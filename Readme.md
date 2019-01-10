@@ -61,9 +61,7 @@ prepare ourselfs for the project, and get tools for the developing of the Python
 
 6. ### Python Notebooks about the project as an evidence of my abilities
 
-In this section I put some of my personal programmes that we used for our project to extract the data from an excel file 
-to a list and then extract the tweets of the users, in that Python Notebook that was my collaboration and in the other one I made it all 
-and that programme clean the data and then export the data to a csv so then we can label the tweets and make it ready to use it in the classifier.In the third one is the part of making the classifiers and compare it to know which one is the best for our problem and also with which values we can reach the best predictions.
+In this section I put some of my personal programmes that we used for our projec, the Python Notebooks are uploaded as a file in the Github so it is possible to look at it through the links with only one click and then come back to this section. Bellow each notebook I tried to make a summary of what I did with the code and what maybe I was expecting to do while I was developping this codes. Also can be some parts that are not completed or maybe some parts that was not useless for our goals at the last. Anyway I will try to be the shortes possible but if there is any doubt the code is in the link of each Python Notebook.
    
    * 1.- [Extract tweets](MAIN-Excell.pdf)
    
