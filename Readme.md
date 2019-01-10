@@ -125,7 +125,7 @@ In this section I put some of my personal programmes that we used for our projec
 8. ### Planning Tools
 
      The tool that we used for planned our tasks in each sprint was Microsoft Planner, we use that to communicate each team memmber
-     the tasks that must be done.
+     the tasks that must be done. 
      
   ![Microsoft_Planner](Tool.png)
 
@@ -149,5 +149,7 @@ In this section I put some of my personal programmes that we used for our projec
     
     * 4.- Cambridge University Press. (2018). Cambridge Dictionary. 09/11/2018, de Cambridge University Press Sitio web: https://dictionary.cambridge.org/dictionary/english/
     * 5.- Pablov. (november 09, 2016). Spam classification with Naive Bayes and Support Vector Machines. december 04, 2018, de Kaggle Sitio web: https://www.kaggle.com/pablovargas/naive-bayes-svm-spam-filtering
+    
+    * 6.- Jacob. (Mayo 10, 2010). TEXT CLASSIFICATION FOR SENTIMENT ANALYSIS – NAIVE BAYES CLASSIFIER. Diciembre 03, 2018, de StreamHacker Sitio web: https://streamhacker.com/2010/05/10/text-classification-sentiment-analysis-naive-bayes-classifier
     
 
