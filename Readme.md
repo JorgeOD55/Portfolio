@@ -125,12 +125,13 @@ In this section I put some of my personal programmes that we used for our projec
 8. ### Planning Tools
 
      The tool that we used for planned our tasks in each sprint was Microsoft Planner, we use that to communicate each team memmber
-     the tasks that must be done. 
+     the tasks that must be done. This is a simple but a very efficient tool because I also have it in my phone so I can see my tasks anywhere, since we began the project we have used this tool and in my opinion, it has been a good way to plan out tasks and time, deadlines and delivers.
      
   ![Microsoft_Planner](Tool.png)
 
 9. ### Presentations
-
+ 
+ Each of us have to present at least two times the progress, problems or just aproach of our project, these are the presentations that I did in the group, the next week is my last presentation, so that is why I only attached two, because the last one and the final one they are not ready yet. 
     
     
      * 1.- [My first Presentation](cybersecurity_week3.pdf)
