@@ -44,7 +44,9 @@ prepare ourselfs for the project, and get tools for the developing of the Python
 
 
 4. ### Another Data Camp Courses
-
+     
+      I took this courses in order to improve my skills with the objective to apply this knowleage in the project.
+     
      * 1.- [Deep Learning in Python](Statement_of_Accomplishment_Deep_Learning_in_Python.pdf)
  
      * 2.- [Linear Classifiers in Python](Statement_of_Accomplishment_Linear_Classifiers_in_Python_Course.pdf)
@@ -67,7 +69,9 @@ In this section I put some of my personal programmes that we used for our projec
    
    In this code, the thing that I've done it was to extract the tweets from the accounts that our project owner gave us. The procedure of this is quiet simple, the main thing here is to have the Tokens from Twitter´s development accounts, so once we got that I used Tweepy library to began exctration, from an excell file which contained the names of the hacktivist accounts, then I put those names in a list, after that, a file was oppened and each a loop was made, so each user got an extraction with a Tweepy method and the swich to the other user and so on, then those tweets were storaged in the 'txt' file. The fieldas that were extracted were 'Name', 'Lenght', 'ID','Date','Source','Likes' and 'Rts'. Besides that that information for each tweet was storaged in a DataFrame unsing Pandas.
      
-   * 2.- [Cleaning Data](Cleaning_Data_Programme.pdf)    
+   * 2.- [Cleaning Data](Cleaning_Data_Programme.pdf)  
+   
+   In this file it's were the data was cleaned, first of all the data was imported from an excell file to a Dataframe, after that we dropped the columns that were useless for our goal, in order to labeled the data the only columns required were the 'Tweets' and 'Name' columns, one more was add it, the lenght of the clenaed tweets. After that there is a function that is going to take away all the characters that we do not need for example '@' and '#' also the links were cleaned from the tweets, and the non-english tweets also were dropped. So once again the power of the loops was shown because each tweet go through this function and storaged in a Dataframe, after that those tweets were saved into a csv file. In that file was some missing values due to there was some tweets that was not in english and they were dropped, that row of the column was empty, so I just used a single method to erease those rows from the column in order to have the more cleaned data possible. Once again the tweets were storaged in a file and there was the file in where the team labeled the tweets. 
    
    * 3.- [Naive Bayes and SMV comparation](Naive_Bayes_SMV_comparation_Classifiers.pdf)  
    
