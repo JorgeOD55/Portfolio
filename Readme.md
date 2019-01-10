@@ -66,6 +66,8 @@ to a list and then extract the tweets of the users, in that Python Notebook that
 and that programme clean the data and then export the data to a csv so then we can label the tweets and make it ready to use it in the classifier.In the third one is the part of making the classifiers and compare it to know which one is the best for our problem and also with which values we can reach the best predictions.
    
    * 1.- [Extract tweets](MAIN-Excell.pdf)
+   
+   In this code, the thing that I've done it was to extract the tweets from the accounts that our project owner gave us. The procedure of this is quiet simple, the main thing here is to have the Tokens from Twitter´s development accounts, so once we got that I used Tweepy library to began exctration, from an excell file which contained the names of the hacktivist accounts, then I put those names in a list, after that, a file was oppened and each a loop was made, so each user got an extraction with a Tweepy method and the swich to the other user and so on, then those tweets were storaged in the 'txt' file. The fieldas that were extracted were 'Name', 'Lenght', 'ID','Date','Source','Likes' and 'Rts'. Besides that that information for each tweet was storaged in a DataFrame unsing Pandas.
      
    * 2.- [Cleaning Data](Cleaning_Data_Programme.pdf)    
    
@@ -74,7 +76,7 @@ and that programme clean the data and then export the data to a csv so then we c
  
  
 7. ### Some visual content
-   #### All the fragments of code that are bellow in this section, they are in the python codes that are shown above.
+   #### All the fragments of code that are bellow in this section, they are in the links of python codes that are shown above.
    
    Those are also some graphics that I did in our code to see the most frequent words in the Tweets, they are the first ones because still missing to take away the common english words like 'the', 'a', and that words. But here its a good aproach of the handle of the tools for visualating the data.
    
