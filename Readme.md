@@ -122,7 +122,14 @@ In this section I put some of my personal programmes that we used for our projec
    
     ![Best_SMV](Best_SMV.png) 
     
-8. ### Presentations
+8.- ### Tools
+     The tool that we used for planned our tasks in each sprint was Microsoft Planner, we use that to communicate each team memmber
+     the tasks that must be done.
+     
+  ![Microsoft_Planner]()
+
+9. ### Presentations
+
     
     
      * 1.- [My first Presentation](cybersecurity_week3.pdf)
@@ -131,7 +138,7 @@ In this section I put some of my personal programmes that we used for our projec
      * 2.- [My Second Presentation](cybersecurity_week9.pdf)
      
 
-7. ### References
+10. ### References
 
     * 1.- Raúl E. López Briega. (2017). Procesamiento de Lenguaje Natural con Python. 25/10/2018, de Blog Sitio web: https://relopezbriega.github.io/blog/2017/09/23/procesamiento-del-lenguaje-natural-con-python/ 
     
