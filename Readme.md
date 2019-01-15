@@ -13,7 +13,7 @@ Part of the task we have to complete during the course is to finish courses that
 
 2. ### Jargon
  
-Used jargon for Cybersecurity is listed below.
+Used jargon for Cybersecurity is listed below. All the words were consulted in the Cambridge University English Diccionary[1].
 
  * _API_.- Abbreviation for application programming interface: a way ofcommunicating with a particular computer program or internet service.
  
@@ -142,13 +142,14 @@ In this section I put some of my personal programmes that we used for our projec
 
 10. ### References
 
-    * 1.- Raúl E. López Briega. (2017). Procesamiento de Lenguaje Natural con Python. 25/10/2018, de Blog Sitio web: https://relopezbriega.github.io/blog/2017/09/23/procesamiento-del-lenguaje-natural-con-python/ 
+    * 1.-  4.- Cambridge University Press. (2018). Cambridge Dictionary. 09/11/2018, de Cambridge University Press Sitio web: https://dictionary.cambridge.org/dictionary/english/
     
-    * 2.- tthustla. (2018). Another Twitter Sentiment Analysis with Python - Part 1. 26/10/2018, de GitHub Sitio web: https://github.com/tthustla/twitter_sentiment_analysis_part1/blob/master/Capstone_part2.ipynb
+    * 2.- Raúl E. López Briega. (2017). Procesamiento de Lenguaje Natural con Python. 25/10/2018, de Blog Sitio web: https://relopezbriega.github.io/blog/2017/09/23/procesamiento-del-lenguaje-natural-con-python/ 
     
-    * 3.- Alec Go, Richa Bhayani y Lei Huang (2009). Twitter Sentiment Classification using Distant Supervision,*academia.edu.9*,1-6.
+    * 3.- tthustla. (2018). Another Twitter Sentiment Analysis with Python - Part 1. 26/10/2018, de GitHub Sitio web: https://github.com/tthustla/twitter_sentiment_analysis_part1/blob/master/Capstone_part2.ipynb
     
-    * 4.- Cambridge University Press. (2018). Cambridge Dictionary. 09/11/2018, de Cambridge University Press Sitio web: https://dictionary.cambridge.org/dictionary/english/
+    * 4.- Alec Go, Richa Bhayani y Lei Huang (2009). Twitter Sentiment Classification using Distant Supervision,*academia.edu.9*,1-6.
+    
     * 5.- Pablov. (november 09, 2016). Spam classification with Naive Bayes and Support Vector Machines. december 04, 2018, de Kaggle Sitio web: https://www.kaggle.com/pablovargas/naive-bayes-svm-spam-filtering
     
     * 6.- Jacob. (Mayo 10, 2010). TEXT CLASSIFICATION FOR SENTIMENT ANALYSIS – NAIVE BAYES CLASSIFIER. Diciembre 03, 2018, de StreamHacker Sitio web: https://streamhacker.com/2010/05/10/text-classification-sentiment-analysis-naive-bayes-classifier
