@@ -9,7 +9,11 @@ https://www.linkedin.com/in/jorge-edmundo-ortiz-dur%C3%A1n-54a825155/
 1. ### Introduction
 
 My name is Jorge, I am 23 years old and I am Mexican, I am a student of the computer systems engineering career at the Instituto Politécnico Nacional, in Mexico. I am currently in the Applied Data Science course, at The Hague University of Applied Sciences, in the Netherlands. I am working on a project called Cyber Security. In this project we apply the concepts and use the tools provided by the course. Libraries like Tweepy, Pandas and Numpy are also used.
-Part of the task we have to complete during the course is to finish courses that have been assigned to us on the DataCamp and Coursera platform, in order to learn how to use tools to achieve our goal in our project. Below is a compilation of the work I have done during this course.
+Part of the task we have to complete during the course is to finish courses that have been assigned to us on the DataCamp and Coursera platform, in order to learn how to use tools to achieve our goal in our project.
+
+In this project we are working on processing natural language. Language is one of the central tools in our social and professional life. Among other things, it acts as a means to transmit ideas, information, opinions and feelings; as well as to persuade, ask for information, or give orders. Also, human language is something that is constantly changing and evolving; and that can become very ambiguous and variable. Take for example the phrase "I ate a pizza with friends" compared to "I ate a pizza with olives"; Its structure is the same, but its meaning is totally different. In the same way, the same message can be expressed in different ways; "I ate a pizza with friends" can also be expressed as "I shared a pizza with friends".In Natural Language Processing or NLP the central idea is to give machines the ability to read and understand the languages that humans speak[2].
+This is why we choose work with Naive Bayes Classifier to process the tweets that we collected and cleaned. We are also going to use Supported Vector Machine and at the end we are going to compare which of these classifiers have the best results.
+Below is a compilation of the work I have done during this course.
 
 2. ### Jargon
  
